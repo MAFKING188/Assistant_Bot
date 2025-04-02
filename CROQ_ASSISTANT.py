@@ -9,6 +9,8 @@ from datetime import datetime
 import time
 import database_manager
 
+#TESTING
+
 # Set up logging
 logging.basicConfig(
     filename='chatbot.log',
